@@ -1,0 +1,148 @@
+
+body
+{
+    background-color: dimgray;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+#titre
+{
+    margin-left: 400px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 56px;
+    text-shadow: 2px 2px 5px grey;
+}
+
+label
+{
+    color: white;
+    margin-left: 50px;
+}
+
+#label1
+{
+    margin-top: 5px;
+}
+#label2
+{
+    margin-top: 25px;
+}
+
+#label3
+{
+    margin-top: 25px;
+}
+
+#label4
+{
+    margin-top: 25px;
+}
+
+#Ad
+{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+#tablo
+{
+    margin-left: 100px;
+}
+
+#titreDepense
+{
+    color: white;
+    margin-left: 50px;
+
+}
+
+#titreRecettes
+{
+    color: white;
+    margin-left: 50px;
+}
+
+#titreEpargne
+{
+    color: white;
+    margin-left: 50px;
+}
+
+#resume
+{
+    color: white;
+    margin-left: 50px;
+}
+
+input
+{
+    width: 70px;
+    margin-left: 5px;
+}
+
+#Ar
+{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+
+
+#titreRecettes
+{
+    margin-top: 50px;
+}
+
+#titreEpargne
+{
+    margin-top: 50px;
+}
+
+#resultat
+{
+    margin-top: 10px;
+    border: 1px black;
+    background-color: #2D2D2D;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    box-shadow: 1px 1px 1px white;
+}
+
+#resultat2
+{
+    background-color: white;
+    height: 25px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: -50px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'East Sea Dokdo', cursive;
+    box-shadow: 1px 1px 5px white;
+}
+
+#valider
+{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+#resumeDiv
+{
+    height: 60px;
+    width: 100%;
+    background-color: #2D2D2D;;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    box-shadow: 1px 1px 2px white;
+}
